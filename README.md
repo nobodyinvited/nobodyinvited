@@ -1,16 +1,3 @@
-﻿### Server-side Developer building real-time, event-driven systems
+﻿Backend engineer building resilient, observable distributed systems.
 
 [![wakatime](https://wakatime.com/badge/user/262bba9d-70f3-46c9-9122-f1228414cfe9.svg)](https://wakatime.com/@262bba9d-70f3-46c9-9122-f1228414cfe9)
-
-- Working with event-driven architecture and player state management
-- Interested in building reliable and scalable backend systems
-
-## Experience
-
-### <a href="https://skarvex.org" target="_blank"><img src="./assets/logo.png" width="18" style="vertical-align: middle; margin-right: 6px;"/></a> SkarvexTeam — Minecraft-based multiplayer project
-
-**Role:** Server-side Developer — since March 2026
-
-- Developing server-side systems for multiplayer environments
-- Contributing to event-driven architecture and player state handling
-- Working on performance and server stability
