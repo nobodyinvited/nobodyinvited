@@ -1,0 +1,122 @@
+{
+  "folders": [
+    {
+      "name": ".tmc",
+      "path": ".tmc",
+    },
+    {
+      "name": "part05-Part05_12.Song",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_12.Song",
+    },
+    {
+      "name": "part05-Part05_13.IdenticalTwins",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_13.IdenticalTwins",
+    },
+    {
+      "name": "part05-Part05_14.Books",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_14.Books",
+    },
+    {
+      "name": "part05-Part05_15.Archive",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_15.Archive",
+    },
+    {
+      "name": "part05-Part05_16.DatingApp",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_16.DatingApp",
+    },
+    {
+      "name": "part05-Part05_17.Money",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part05-Part05_17.Money",
+    },
+    {
+      "name": "part06-Part06_01.Menu",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_01.Menu",
+    },
+    {
+      "name": "part06-Part06_02.Stack",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_02.Stack",
+    },
+    {
+      "name": "part06-Part06_03.MessagingService",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_03.MessagingService",
+    },
+    {
+      "name": "part06-Part06_04.PrintingACollection",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_04.PrintingACollection",
+    },
+    {
+      "name": "part06-Part06_05.SantasWorkshop",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_05.SantasWorkshop",
+    },
+    {
+      "name": "part06-Part06_06.LongestInCollection",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_06.LongestInCollection",
+    },
+    {
+      "name": "part06-Part06_07.HeightOrder",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_07.HeightOrder",
+    },
+    {
+      "name": "part06-Part06_08.CargoHold",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_08.CargoHold",
+    },
+    {
+      "name": "part06-Part06_09.SimpleDictionary",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_09.SimpleDictionary",
+    },
+    {
+      "name": "part06-Part06_10.TodoList",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_10.TodoList",
+    },
+    {
+      "name": "part06-Part06_11.Averages",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_11.Averages",
+    },
+    {
+      "name": "part06-Part06_12.JokeManager",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_12.JokeManager",
+    },
+    {
+      "name": "part06-Part06_13.Exercises",
+      "path": "../../../../../../../Desktop/java-programming-mooc-fi/tmcdata/mooc-java-programming-i/part06-Part06_13.Exercises",
+    },
+  ],
+  "settings": {
+    "explorer.decorations.colors": false,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/__pycache__": true,
+      "**/.available_points.json": true,
+      "**/.tmc_test_results.json": true,
+      "**/.tmcproject.yml": true,
+      "**/tmc": true,
+      "**/.settings": true,
+      "**/.tmcproject.json": true,
+      "**/.tmc.json": true,
+      "**/.tmc.lock": true,
+      "**/.tmc_test_results.hmac.sha256": true,
+    },
+    "files.watcherExclude": {
+      ".git/objects/**": true,
+      ".git/subtree-cache/**": true,
+      ".hg/store/**": true,
+      "*/.git/objects/**": true,
+      "*/.git/subtree-cache/**": true,
+      "*/.hg/store/**": true,
+      "**/.vscode/**": true,
+      "**/.tmc.json": true,
+    },
+    "problems.decorations.enabled": false,
+    "workbench.editor.closeOnFileDelete": true,
+    "testMyCode.downloadOldSubmission": true,
+    "testMyCode.hideMetaFiles": true,
+    "testMyCode.updateExercisesAutomatically": true,
+    "explorer.decorations.badges": true,
+    "java.debug.settings.onBuildFailureProceed": true,
+  },
+}
