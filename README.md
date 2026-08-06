@@ -1,3 +1,4 @@
-﻿Backend engineer building resilient, observable distributed systems.
+Backend developer, learning Java and Spring Boot to build solid web backend applications. 
 
-[![wakatime](https://wakatime.com/badge/user/262bba9d-70f3-46c9-9122-f1228414cfe9.svg)](https://wakatime.com/@262bba9d-70f3-46c9-9122-f1228414cfe9)
+Focused on clean code and core engineering principles.
+
