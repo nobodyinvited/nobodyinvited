@@ -1,4 +1,4 @@
-Backend developer, learning Java and Spring Boot to build solid web backend applications. 
+### backend developer
+building solid web applications with a focus on **clean code** and **core engineering principles**.
 
-Focused on clean code and core engineering principles.
-
+![spring boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=spring&logoColor=white)
